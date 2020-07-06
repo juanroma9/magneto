@@ -1,5 +1,7 @@
 # magneto
- Proyecto en spring boot y mysql con el fin de detectar si una secuencia de ADN es de humano o es mutante
+ Proyecto en spring boot y mysql con el fin de detectar si una secuencia de ADN es de humano o es mutante.
+ 
+ El proyecto esta alojado en AWS dentro del servicio Elastic Beanstalk
  
  ## Instrucciones de uso
  1. Descargar una herramienta de cliente para ejecutar Apis, como postman.
